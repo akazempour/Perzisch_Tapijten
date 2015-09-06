@@ -1,0 +1,11 @@
+c:\users\shine\documents\visual studio 2012\Projects\Market-International\Market-International\bin\Market-International.dll
+c:\users\shine\documents\visual studio 2012\Projects\Market-International\Market-International\bin\Market-International.pdb
+c:\users\shine\documents\visual studio 2012\Projects\Market-International\Market-International\obj\Debug\Market-International.dll
+c:\users\shine\documents\visual studio 2012\Projects\Market-International\Market-International\obj\Debug\Market-International.pdb
+C:\Users\shine\documents\visual studio 2012\Projects\market-international\Market-International\obj\Debug\Market-International.csprojResolveAssemblyReference.cache
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\bin\Market-International.dll
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\bin\Market-International.pdb
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\obj\Debug\Market-International.dll
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\obj\Debug\Market-International.pdb
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\bin\Market-International.dll.config
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Market-International\Market-International\obj\Debug\Market-International.csprojResolveAssemblyReference.cache

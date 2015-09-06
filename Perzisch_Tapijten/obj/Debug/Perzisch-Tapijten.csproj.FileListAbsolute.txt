@@ -1,0 +1,6 @@
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\bin\Perzisch-Tapijten.dll.config
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\bin\Perzisch-Tapijten.dll
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\bin\Perzisch-Tapijten.pdb
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\obj\Debug\Perzisch-Tapijten.dll
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\obj\Debug\Perzisch-Tapijten.pdb
+C:\Users\shine\Documents\Visual Studio 2013\Projects\Perzisch-Tapijten\Perzisch_Tapijten\obj\Debug\Perzisch-Tapijten.csprojResolveAssemblyReference.cache
